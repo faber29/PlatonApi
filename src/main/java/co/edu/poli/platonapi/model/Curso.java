@@ -10,6 +10,7 @@ public class Curso {
     private int estudiantesInscritos;
     private String facultad;
 
+
     public Curso(int id, String nombre, String codigo, String profesor, int cupoMaximo, int estudiantesInscritos, String facultad) {
         this.id = id;
         this.nombre = nombre;
