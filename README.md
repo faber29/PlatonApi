@@ -80,5 +80,5 @@ Parámetro faltante:
 {
     "error": "Parámetro 'nombre' es requerido"
 }
-Notas Adicionales
+### Notas Adicionales
 Puedes usar herramientas como Postman para probar los endpoints.
